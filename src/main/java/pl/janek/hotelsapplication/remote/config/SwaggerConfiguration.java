@@ -23,7 +23,7 @@ public class SwaggerConfiguration {
                 .build()
                 .useDefaultResponseMessages(false)
                 .ignoredParameterTypes()
-                .apiInfo(new ApiInfo("Pizza information", "","","",new Contact("","",""),"","", Collections.emptyList()));
+                .apiInfo(new ApiInfo("Hotels application", "","","",new Contact("","",""),"","", Collections.emptyList()));
 
     }
 }

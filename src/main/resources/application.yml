@@ -7,4 +7,4 @@ spring:
   datasource:
     url: "jdbc:postgresql://localhost:5432/hotel"
     username: "postgres"
-    password: india122
+    password: xxx
